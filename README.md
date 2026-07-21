@@ -169,7 +169,7 @@ Feel free to fork the repository and submit a Pull Request.
 
 ## 📄 License
 
-This project was created for educational purposes as a  kntu university programming assignment.
+This project was created for educational purposes as a  KNTU university programming assignment.
 
 You are free to study and modify the source code for learning purposes.
 
